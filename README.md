@@ -5,4 +5,4 @@ Using the centre of the window as a reference point and the current position of 
 
 I have coloured the different parts, to show it more clearly.
 
-[ADD IMAGE]
+<img src="https://user-images.githubusercontent.com/75139306/198874423-609966e1-9329-4a22-a1e9-21eaa68761e9.png" width=350 height=350>
