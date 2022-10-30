@@ -5,4 +5,8 @@ Using the centre of the window as a reference point and the current position of 
 
 I have coloured the different parts, to show it more clearly.
 
-<img src="https://user-images.githubusercontent.com/75139306/198874423-609966e1-9329-4a22-a1e9-21eaa68761e9.png" width=350 height=350>
+A few examples..
+
+<img src="https://user-images.githubusercontent.com/75139306/198874423-609966e1-9329-4a22-a1e9-21eaa68761e9.png" width=425 height=400>
+<img src="https://user-images.githubusercontent.com/75139306/198874537-db9d6f38-b36a-401e-ac2e-53bd17424b6c.png" width=550 height=400>
+<img src="https://user-images.githubusercontent.com/75139306/198874610-3961cdea-8c75-4fcb-b6bb-2dc6417b6d08.png" width=400 height=600>
